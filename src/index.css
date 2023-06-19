@@ -8,28 +8,21 @@ body {
   font-family: "Signika Negative";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #ffe3e2;
-  /* background-image: linear-gradient(
-    0deg,
-    hsl(2deg 100% 94%) 0%,
-    hsl(2deg 97% 93%) 0%,
-    hsl(2deg 95% 92%) 2%,
-    hsl(2deg 94% 90%) 7%,
-    hsl(2deg 93% 89%) 50%,
-    hsl(2deg 92% 87%) 93%,
-    hsl(2deg 92% 86%) 98%,
-    hsl(2deg 91% 84%) 100%,
-    hsl(2deg 91% 82%) 100%
-  ); */
+  /* background-color: #ffe3e2; */
+  background-image: url("images/Front_end_placeholder.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-attachment: fixed;
 }
 
-.background-image {
+/* .background-image {
   height: 100vh;
   background-image: url("images/ugahacks_banner_v3.png");
   background-repeat: repeat-x;
   background-position: bottom;
   background-attachment: fixed;
-}
+} */
 
 .mlh-banner {
   width: 7vw;
@@ -37,8 +30,3 @@ body {
   top: 0%;
   left: 90%;
 }
-
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-} */

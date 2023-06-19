@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
 
 .flex-container {
-  margin-top: 20vh;
+  margin-top: 25vh;
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -22,7 +22,7 @@
 }
 
 .logo {
-  width: 60vw;
+  width: 70vw;
 }
 
 .social-container {

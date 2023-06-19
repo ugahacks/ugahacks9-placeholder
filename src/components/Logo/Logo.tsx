@@ -1,6 +1,7 @@
 import React from "react";
 import "./Logo.css";
 import uh9Logo from "../../images/ugahackslogo_pinched.svg";
+// import uh9Logo from "../../images/Hollow_logo_with_byte_.svg";
 
 import facebookIcon from "../../images/icons/facebook-icon.svg";
 import instagramIcon from "../../images/icons/instagram-icon.svg";

@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <img className="mlh-banner" src={mlhBanner}></img>
       <Logo />
-      <div className="background-image"></div>
+      {/* <div className="background-image"></div> */}
     </div>
   );
 }
