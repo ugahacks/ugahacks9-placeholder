@@ -18,7 +18,13 @@ function Logo() {
         <h1>COMING SOON</h1>
       </div>
       <div className="row">
-        <button className="register-button">PRE-REGISTER</button>
+        <a
+          href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_bDXiOHGczPvHRL8"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button className="register-button">PRE-REGISTER</button>
+        </a>
       </div>
       <div className="row">
         <div className="social-container">
