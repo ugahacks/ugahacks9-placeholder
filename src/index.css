@@ -30,3 +30,12 @@ body {
   top: 0%;
   left: 90%;
 }
+
+@media (max-width: 760px) {
+  .mlh-banner {
+    width: 7vh;
+    position: absolute;
+    top: 0%;
+    left: 85%;
+  }
+}
