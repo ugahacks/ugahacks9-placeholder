@@ -15,7 +15,7 @@ function Logo() {
         <img className="logo" src={uh9Logo} alt="ugahacks 9 logo w/ dog"></img>
       </div>
       <div className="row">
-        <h1>COMING SOON</h1>
+        <h1>University of Georgia · February 9-11, 2024</h1>
       </div>
       <div className="row">
         <a
@@ -33,28 +33,28 @@ function Logo() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={instagramIcon}></img>
+            <img src={instagramIcon} alt="instagram icon"></img>
           </a>
           <a
             href="https://www.linkedin.com/company/ugahacks"
             target="_blank"
             rel="noreferrer"
           >
-            <img src={linkedinIcon}></img>
+            <img src={linkedinIcon} alt="linkedin icon"></img>
           </a>
           <a
             href="https://github.com/ugahacks"
             target="_blank"
             rel="noreferrer"
           >
-            <img src={githubIcon}></img>
+            <img src={githubIcon} alt="github icon"></img>
           </a>
           <a
             href="https://www.facebook.com/ugahacks/"
             target="_blank"
             rel="noreferrer"
           >
-            <img src={facebookIcon}></img>
+            <img src={facebookIcon} alt="facebook icon"></img>
           </a>
         </div>
       </div>
