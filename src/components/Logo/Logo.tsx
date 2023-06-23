@@ -58,6 +58,16 @@ function Logo() {
           </a>
         </div>
       </div>
+      <div className="row">
+        <a
+          href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf"
+          target="_blank"
+          rel="noreferrer"
+          className="code-of-conduct"
+        >
+          MLH Code of Conduct
+        </a>
+      </div>
     </div>
   );
 }

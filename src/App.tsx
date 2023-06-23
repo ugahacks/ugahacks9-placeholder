@@ -10,7 +10,6 @@ function App() {
         alt="major league 2024 banner"
       ></img>
       <Logo />
-      {/* <div className="background-image"></div> */}
     </div>
   );
 }
