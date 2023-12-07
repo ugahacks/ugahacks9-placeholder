@@ -18,12 +18,8 @@ function Logo() {
         <h1>University of Georgia · February 9-11, 2024</h1>
       </div>
       <div className="row">
-        <a
-          href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_bDXiOHGczPvHRL8"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <button className="register-button">PRE-REGISTER</button>
+        <a href="https://mybyte.ugahacks.com/" target="_blank" rel="noreferrer">
+          <button className="register-button">REGISTER</button>
         </a>
       </div>
       <div className="row">
